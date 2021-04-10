@@ -11,4 +11,4 @@ When I update OpenCore, I will share OpenCore for you.
 If you want to install macOS from scratch, you can download the macOS installation image for all processors from [this] (https://www.technopat.net/sosyal/bolum/macos.9/) link.
 ** MacOS versions with EFI file tested: macOS Sierra 10.12.6, macOS High Sierra 10.13.6, macOS Mojave 10.14.6, macOS Catalina 10.15.6, macOS Big Sur 11.2.3 and macOS Big Sur 11.3 Beta **
 I will try to add EFI files for different laptops once a month or every two months.
-**Note: English translation has been done by Google Translate. Bu EFI Acer Aspire 3 A315-53G modelleri ilede uyumludur.**
+**Note: English translation has been done by Google Translate. This EFI is also compatible with Acer Aspire 3 A315-53G models.**
